@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Opti-Reach | About</title>
+<link rel="stylesheet" href="style.css">
+<script defer src="script.js"></script>
+</head>
+<body>
+
+<nav>
+  <div class="logo"><img src="images/logo.png" alt="Opti-Reach Logo" height="50"></div>
+  <div class="menu">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="case-studies.html">Case Studies</a>
+    <a href="testimonials.html">Testimonials</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</nav>
+
+<section id="about-hero">
+  <h1>About Opti-Reach</h1>
+  <p>We are a European SEO consultancy specializing in organic growth for Shopify, Wix, and WordPress stores in Germany, France, and Spain.</p>
+</section>
+
+<section id="methodology">
+  <h2>Our SEO Methodology</h2>
+  <ol>
+    <li><strong>Technical Audit:</strong> Core Web Vitals, indexation, speed optimization.</li>
+    <li><strong>Keyword Strategy:</strong> Multilingual keyword research targeting EU markets.</li>
+    <li><strong>On-Page Optimization:</strong> Product pages, category pages, meta tags.</li>
+    <li><strong>Authority Building:</strong> Backlink analysis, schema markup, content strategy.</li>
+    <li><strong>Performance Tracking:</strong> Traffic, rankings, conversions.</li>
+  </ol>
+</section>
+
+<section id="why-choose">
+  <h2>Why Choose Us</h2>
+  <p>We combine data-driven SEO strategies with hands-on eCommerce expertise to help your brand dominate organic search across Europe.</p>
+</section>
+
+<footer>
+  &copy; 2026 Opti-Reach | <a href="contact.html">Contact Us</a>
+</footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Opti-Reach | Services</title>
+<link rel="stylesheet" href="style.css">
+<script defer src="script.js"></script>
+</head>
+<body>
+
+<nav>
+  <div class="logo"><img src="images/logo.png" alt="Opti-Reach Logo" height="50"></div>
+  <div class="menu">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="case-studies.html">Case Studies</a>
+    <a href="testimonials.html">Testimonials</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</nav>
+
+<section id="services-hero">
+  <h1>Our Services</h1>
+  <p>We specialize in SEO strategies for eCommerce platforms: Shopify, Wix, WordPress, and more.</p>
+</section>
+
+<section id="pricing">
+  <h2>SEO Packages</h2>
+  <div class="grid">
+    <div class="pricing-card">
+      <h3>Basic Visibility Plan</h3>
+      <p>$149.99 — Ensure your store is properly indexed and ready to rank.</p>
+      <ul>
+        <li>Technical audit</li>
+        <li>Sitemap & robots.txt optimization</li>
+        <li>Metadata refinement</li>
+        <li>Keyword research for 5 products</li>
+        <li>2 weeks post-delivery support</li>
+      </ul>
+    </div>
+    <div class="pricing-card">
+      <h3>Growth Optimization Plan</h3>
+      <p>$249.99 — Attract targeted traffic and build consistent growth.</p>
+      <ul>
+        <li>Everything in Basic</li>
+        <li>Homepage & product content audit</li>
+        <li>Keyword targeting for 10 products</li>
+        <li>Internal linking & speed optimization</li>
+        <li>Blog setup + SEO strategy</li>
+        <li>3 weeks post-delivery support</li>
+      </ul>
+    </div>
+    <div class="pricing-card">
+      <h3>Pro Conversion & Traffic Boost Plan</h3>
+      <p>$409.99 — Scale authority and sales in competitive EU markets.</p>
+      <ul>
+        <li>Everything in Growth</li>
+        <li>Link building & backlink profile</li>
+        <li>Broken link audit & repair</li>
+        <li>Schema markup & rich snippets</li>
+        <li>Advanced product SEO</li>
+        <li>Sales funnel setup</li>
+        <li>5 weeks post-delivery support</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<footer>
+  &copy; 2026 Opti-Reach | <a href="contact.html">Contact Us</a>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Opti-Reach | Case Studies</title>
+<link rel="stylesheet" href="style.css">
+<script defer src="script.js"></script>
+</head>
+<body>
+
+<nav>
+  <div class="logo"><img src="images/logo.png" alt="Opti-Reach Logo" height="50"></div>
+  <div class="menu">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="case-studies.html">Case Studies</a>
+    <a href="testimonials.html">Testimonials</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</nav>
+
+<section id="case-hero">
+  <h1>Case Studies</h1>
+  <p>Examples of our SEO and traffic growth results for European eCommerce brands.</p>
+</section>
+
+<section id="case-grid">
+  <div class="grid">
+    <div class="pricing-card">
+      <h3>German Shopify Store</h3>
+      <ul>
+        <li>Organic traffic: +210%</li>
+        <li>Top 10 ranking for 18 keywords</li>
+        <li>Revenue growth attributed to SEO</li>
+      </ul>
+    </div>
+    <div class="pricing-card">
+      <h3>French WordPress Store</h3>
+      <ul>
+        <li>Product page visibility: +165%</li>
+        <li>Core Web Vitals improved</li>
+        <li>Conversion rate from organic traffic increased</li>
+      </ul>
+    </div>
+    <div class="pricing-card">
+      <h3>Spanish Online Retailer</h3>
+      <ul>
+        <li>International SEO structure implemented</li>
+        <li>Traffic growth chart placeholder</li>
+        <li>Bounce rate reduced</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<footer>
+  &copy; 2026 Opti-Reach | <a href="contact.html">Contact Us</a>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Opti-Reach | Testimonials</title>
+<link rel="stylesheet" href="style.css">
+<script defer src="script.js"></script>
+</head>
+<body>
+
+<nav>
+  <div class="logo"><img src="images/logo.png" alt="Opti-Reach Logo" height="50"></div>
+  <div class="menu">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="case-studies.html">Case Studies</a>
+    <a href="testimonials.html">Testimonials</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</nav>
+
+<section id="testimonials-hero">
+  <h1>Client Testimonials</h1>
+  <p>Hear from our satisfied clients across Europe.</p>
+</section>
+
+<section class="grid">
+  <div class="pricing-card">
+    <p>"Opti-Reach increased our organic traffic by 180% in 6 months!"</p>
+    <strong>- Anna M., Germany</strong>
+  </div>
+  <div class="pricing-card">
+    <p>"Professional SEO that delivered measurable sales results."</p>
+    <strong>- Julien R., France</strong>
+  </div>
+  <div class="pricing-card">
+    <p>"Our Shopify store visibility skyrocketed thanks to Opti-Reach."</p>
+    <strong>- Lucia S., Spain</strong>
+  </div>
+  <div class="pricing-card">
+    <p>"We achieved consistent daily sales growth from organic traffic."</p>
+    <strong>- Mark D., Netherlands</strong>
+  </div>
+  <div class="pricing-card">
+    <p>"Their team knows European SEO like no one else."</p>
+    <strong>- Sophie L., Belgium</strong>
+  </div>
+  <div class="pricing-card">
+    <p>"Clear strategy, fast implementation, excellent results."</p>
+    <strong>- Thomas W., Germany</strong>
+  </div>
+</section>
+
+<footer>
+  &copy; 2026 Opti-Reach | <a href="contact.html">Contact Us</a>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Opti-Reach | Contact</title>
+<link rel="stylesheet" href="style.css">
+<script defer src="script.js"></script>
+</head>
+<body>
+
+<nav>
+  <div class="logo"><img src="images/logo.png" alt="Opti-Reach Logo" height="50"></div>
+  <div class="menu">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="case-studies.html">Case Studies</a>
+    <a href="testimonials.html">Testimonials</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</nav>
+
+<section id="contact-hero">
+  <h1>Contact Opti-Reach</h1>
+  <p>Request a Free SEO Audit or ask about our services.</p>
+</section>
+
+<section id="contact-form">
+  <form action="mailto:opti.reachwebmaster@gmail.com" method="post" enctype="text/plain">
+    <label for="name">Name</label><br>
+    <input type="text" id="name" name="name" required><br><br>
+
+    <label for="email">Email</label><br>
+    <input type="email" id="email" name="email" required><br><br>
+
+    <label for="country">Country</label><br>
+    <select id="country" name="country" required>
+      <option value="Germany">Germany</option>
+      <option value="France">France</option>
+      <option value="Spain">Spain</option>
+      <option value="Netherlands">Netherlands</option>
+      <option value="Belgium">Belgium</option>
+    </select><br><br>
+
+    <label for="message">Message</label><br>
+    <textarea id="message" name="message" rows="6" required></textarea><br><br>
+
+    <input type="submit" value="Send" class="button">
+  </form>
+</section>
+
+<footer>
+  &copy; 2026 Opti-Reach | <a href="contact.html">Contact Us</a>
+</footer>
+
+</body>
+</html>
